@@ -44,3 +44,4 @@ print(a ^ b) #xor
 print(~a)#Not
 print(a << 1) #left shift
 print(a >> 1) #right shift
+
