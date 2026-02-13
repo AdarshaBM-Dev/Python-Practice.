@@ -1,4 +1,4 @@
-'''#list
+ '''#list
 
 item1 = "bru"
 item2 = "sugar"
@@ -179,4 +179,5 @@ matrix = [
 # Accessing elements in a nested list
 print(matrix[0])  # Output: [1, 2, 3] (first row)
 print(matrix[1][1])  # Output: 5 (element in the second row, second column)
+
 
