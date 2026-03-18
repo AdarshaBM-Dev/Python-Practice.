@@ -10,7 +10,7 @@ print(var1)
 var1  = 12
 print("Data type of variable is ;"+str(var1))
 print(var1)
-
+  
 
 '''
 #note
