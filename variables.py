@@ -12,7 +12,7 @@ print("Data type of variable is ;"+str(var1))
 print(var1)
   
 
-'''
+'''  
 #note
 #:keyword not using variable name
 #variable name should start with a letter or _
