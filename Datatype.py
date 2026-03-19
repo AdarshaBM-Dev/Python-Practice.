@@ -1,4 +1,4 @@
- name = "Adarsha" #string
+  name = "Adarsha" #string
 age = 22 #int
 is_student = False #bool
 weight = 70.22  #float
