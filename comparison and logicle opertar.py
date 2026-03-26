@@ -7,7 +7,7 @@ print(a<b)
 print(a==b)
 print(a!=b)
 print(a>=b)
-print(a<=b)
+print(a<=b) 
 
 #greater  >
 #lesser   <
