@@ -4,7 +4,7 @@ account_balance = 324.45 #floating point
 
 name = "adarsha" #string
 
-is_accepted_terms_and_condition = True or False#boolean
+is_accepted_terms_and_condition = True or False#boolean 
 
 print(name)
 
