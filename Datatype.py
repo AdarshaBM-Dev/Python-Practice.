@@ -14,3 +14,4 @@ print(type(name))
 age_float = float(age)
 print(age_float)
 print(type(age_float))
+  
