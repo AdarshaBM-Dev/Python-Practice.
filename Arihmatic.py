@@ -12,6 +12,6 @@ print(a**b) #exponatial
 #swap
 a= 10
 b= 11
-print(f"Before swap: a = {a},b= {b}")
+print(f"Before swap: a = {a},b= {b}")  
 print(f"After swap: a = {b},b= {a}")
 
