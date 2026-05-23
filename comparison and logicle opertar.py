@@ -1,4 +1,4 @@
-#comparision operatos
+ #comparision operatos
 
 a = 7
 b = 16
