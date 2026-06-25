@@ -6,7 +6,7 @@ item3 = "milk"
 print(item1, item2, item3)    
 
 items = ["bru", "sugar", "milk", "bru2"]   
-l = [1 , "bru", True, [1,2,3]]
+l = [1 , "bru", True, [1,2,3]]   
 print(l)
 print(items)
 print(items[0])
