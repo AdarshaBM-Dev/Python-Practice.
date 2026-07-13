@@ -3,7 +3,7 @@
 item1 = "bru"
 item2 = "sugar"
 item3 = "milk"
-print(item1, item2, item3)    
+print(item1, item2, item3) 
 
 items = ["bru", "sugar", "milk", "bru2"]   
 l = [1 , "bru", True, [1,2,3]]   
