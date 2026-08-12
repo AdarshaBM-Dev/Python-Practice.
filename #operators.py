@@ -10,7 +10,7 @@ b = 100
  
 print(a == b) #equal to 
 print(a >= b)
-print(a <= b)
+print(a <= b    
 print(a != b) #not equal to
 
 #logic operators
