@@ -4,7 +4,7 @@ a = a + 100
 a += 100 #short from 
 print(a)
 
-# coparision  operators     
+# coparision  operators        
 a = 10
 b = 100
  
