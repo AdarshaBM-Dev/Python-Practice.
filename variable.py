@@ -1,11 +1,7 @@
-a = 10
-b = 20
-print(a)
-print(b)
-print(a+b)
+#variable
+name = "Adarsha" #string
+age = 22 #int
+is_student = False #boolean
+weight = 69.5 #float
 
-a, b ,c = 10, 30, 50
-a, b ,c = 10, 10, 10
-a = b = c = 10
-
-
+print(type(is_student))
